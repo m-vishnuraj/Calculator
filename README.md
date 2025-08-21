@@ -1,1 +1,1 @@
-![image_alt]([https://github.com/m-vishnuraj/Jetpack-Compose-Responsive/blob/7c552ca2450c518385c6c039c1cc832ab8a94266/Screenshot_20250821_114531.png](https://github.com/m-vishnuraj/Calculator/blob/31ca0090e9afd6c32c70793bf3668ee517ebe747/Screenshot_20250821_184651.png))
+![image_alt](https://github.com/m-vishnuraj/Calculator/blob/main/Screenshot_20250821_184651.png?raw=true)
