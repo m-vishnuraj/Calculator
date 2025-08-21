@@ -1,6 +1,6 @@
 # Calculator App
 
-A sleek, dark-themed calculator application with a modern interface.
+A sleek calculator application with a modern interface.
 
 ## Screenshots
 
@@ -11,12 +11,11 @@ A sleek, dark-themed calculator application with a modern interface.
        style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
 </div>
 
-*Modern calculator interface with dark theme*
+*Modern calculator interface*
 
 ## Features
 
 - Clean, intuitive user interface
-- Dark theme for comfortable viewing
 - Standard arithmetic operations
 - Responsive button layout
 - Portrait orientation optimized
@@ -42,10 +41,6 @@ cd Calculator
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-[Add your license information here]
 
 ---
 
